@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bunyaminmrcn
 - 👀 I’m interested in IOT
-- 🌱 I’m currently learning Docker, Kubernetes, Vue
+- 🌱 I’m currently learning Docker, Vue
 - 📫 How to reach me via email `mrcnbunyamin@gmail.com`
 
 <!---
